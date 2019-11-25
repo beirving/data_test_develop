@@ -98,3 +98,11 @@ ENV/
 # mypy
 .mypy_cache/
 
+venv/.
+
+.pytest_cache
+
+downloaded_xml_data.xml
+output.csv
+
+
